@@ -1,8 +1,7 @@
 BERAT+="\n✨Python İnstaller✨"
-MESAJ="\n📱Python Installer Android Setup📱"
+MESAJ="\n📱Python Installer İos Setup📱"
 MESAJ+="\n "
 MESAJ+="\n LavanderProjects / Berat Bey"
-MESAJ+="Never Give Up"
 MESAJ+="\n "
 MESAJ+="\n"
 YARDIM="\n"
@@ -20,5 +19,6 @@ echo -e $MESAJ
 echo "Git Yükleniyor"
 echo y | apk add git
 clear
-echo "PYTHON & GİT İNDİRMESİ TAMAMLANDI \n\n Berathan Yedibela"
+echo "PYTHON & GİT İNDİRMESİ TAMAMLANDI "
+echo "Berathan Yedibela"
 
