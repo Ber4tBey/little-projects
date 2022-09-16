@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/73439036?v=4" width="400" height="400">
+  <img src="https://avatars.githubusercontent.com/u/73439036?v=4" width="300" height="300">
   <h1>Berathan Yedibela</h1>
 </div>
 <p align="center">
