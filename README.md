@@ -64,7 +64,7 @@ Yapıştırdıktan sonra kodlar gelicektir bir sorun çıkmazsa python kurulmuş
 ## İos Kurulum
 
 
-Kurmak öncelikle İSH adlı uygulamayı indirelim.
+Kurmak için öncelikle İSH adlı uygulamayı indirelim.
 
 
 [İSH](https://apps.apple.com/us/app/ish-shell/id1436902243)
