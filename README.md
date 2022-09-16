@@ -32,7 +32,7 @@ Termuxu indirip kurduktan sonra termuxu çalıştırın ardından aşağıda bel
 `bash <(curl -L https://bit.ly/3S3n2ok)`
 
 
-Yapıştırdıktan sonra kodlar gelicektir bir sorun çıkmazsa python kurulmuş olacaktır.**
+Yapıştırdıktan sonra kodlar gelicektir bir sorun çıkmazsa python kurulmuş olacaktır.
 
 
 
