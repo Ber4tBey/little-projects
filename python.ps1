@@ -1,10 +1,9 @@
 Write-Output("Berathan Yedibela")
 Write-Output("Scoop Yukleniyor...")
-scoop update
 Set-ExecutionPolicy RemoteSigned -scope CurrentUser
 Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.scoop.sh')
 Write-Output(" Github yükleniyor...")
-
+scoop update
 scoop install git
 $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User")
 Write-Output(" Berathan Yedibela Windows Auto Python Downloader ")
