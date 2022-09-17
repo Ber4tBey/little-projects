@@ -6,9 +6,9 @@
     Python Auto İnstaller
     <br>
         |
-        <a href="https://instagram.com/Berathanyedibela">İnstagram</a> |
-        <a href="https://t.me/Ber4tbey">Telegram</a> |
-        <a href="https://ber4tbey.org">Web Site</a> |
+        <a href="https://instagram.com/Berathanyedibela" target="_blank">İnstagram</a> |
+        <a href="https://t.me/Ber4tbey" target="_blank">Telegram</a> |
+        <a href="https://ber4tbey.org" target="_blank">Web Site</a> |
     <br>
 </p>
 
